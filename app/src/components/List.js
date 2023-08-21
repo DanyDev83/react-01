@@ -34,6 +34,6 @@ function List() {
                 )}
             </div>
         </div>);
-};
+}
 
 export default List;
